@@ -3,8 +3,11 @@
   <a href="#" target="_blank">Sheik Abdulla</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="![my port 2](https://github.com/Sheikcoder/My_Dev_Portfolio_V2/assets/97376129/0331a6e9-059e-4571-bd73-f4a4c6f692cd)"/>
 </div>
+
+
+![my port 2](https://github.com/Sheikcoder/My_Dev_Portfolio_V2/assets/97376129/0331a6e9-059e-4571-bd73-f4a4c6f692cd)
 
 
 This project was built using these technologies.
